@@ -1,0 +1,173 @@
+Communitys
+Asian Chat:1
+Asian Chat:2
+Black Chat:1
+Black Chat:2
+Religional Chat:1
+Religional Chat:2
+Yippy Chat:1
+Yippy Chat:2
+Computers
+Apple:1
+Apple:2
+Cracker's Lounge:1
+Cracker's Lounge:2
+Hacker's Lounge:1
+Hacker's Lounge:2
+Programming:1
+Programming:2
+Windows:1
+Windows:2
+Entertainment
+Gaming:1
+Gaming:2
+Movies:1
+Movies:2
+Television:1
+Television:2
+Music
+Country:1
+Country:2
+Karaoke:1
+Karaoke:2
+Metal:1
+Metal:2
+Music:1
+Music:2
+Rap & HipHop:1
+Rap & HipHop:2
+Rock:1
+Rock:2
+Public & Help
+Public Chat:1
+Public Chat:2
+Yippy Help:1
+Yippy Help:2
+Australia
+Aussie:1
+Aussie:2
+Aussie:3
+Canada
+Canada:1
+Canada:2
+Canada:3
+China
+China:1
+China:2
+China:3
+France
+France:1
+France:2
+Germany
+Germany:1
+Germany:2
+India
+India:1
+India:2
+India:3
+India:4
+India:5
+India:6
+India:7
+India:8
+India:9
+India:10
+Islands
+Fiji:1
+Fiji:2
+Hawaii:1
+Hawaii:2
+Samoa:1
+Samoa:2
+Singapore:1
+Singapore:2
+Tonga:1
+Tonga:2
+Japan
+Japan:1
+Japan:2
+Tokyo:1
+Tokyo:2
+Mexico
+Mexico:1
+Mexico:2
+New Zealand
+Auckland:1
+Auckland:2
+New Zealand:1
+New Zealand:2
+Overseas Filipino Workers
+OFW Zone:1
+OFW Zone:2
+OFW Zone:3
+OFW Zone:4
+OFW Zone:5
+OFW Zone:6
+OFW Zone:7
+OFW Zone:8
+OFW Zone:9
+OFW Zone:10
+Pakistan
+Pakistan:1
+Pakistan:2
+Pakistan:3
+Pakistan:4
+Pakistan:5
+Pakistan:6
+Pakistan:7
+Pakistan:8
+Pakistan:9
+Pakistan:10
+Philippines
+Antipolo City:1
+Antipolo City:2
+Antipolo City:3
+Antipolo City:4
+Antipolo City:5
+Metro Manila:1
+Metro Manila:2
+Metro Manila:3
+Metro Manila:4
+Metro Manila:5
+More Fun In The Philippines:1
+More Fun In The Philippines:2
+More Fun In The Philippines:3
+More Fun In The Philippines:4
+More Fun In The Philippines:5
+Philippines:1
+Philippines:2
+Philippines:3
+Philippines:4
+Philippines:5
+Russia
+Russia:1
+Russia:2
+Russia:3
+Saudi Arabia
+Saudi Arabia:1
+Saudi Arabia:2
+Saudi Arabia:3
+Saudi Arabia:4
+Saudi Arabia:5
+Saudi Arabia:6
+Saudi Arabia:7
+Saudi Arabia:8
+Saudi Arabia:9
+Saudi Arabia:10
+Spain
+Spain:1
+Spain:2
+Spain:3
+United Kingdom
+England:1
+England:2
+England:3
+London:1
+London:2
+UK:1
+UK:2
+United States
+America:1
+America:2
+USA:1
+USA:2
