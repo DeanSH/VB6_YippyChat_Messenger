@@ -1,0 +1,3 @@
+Do Not Delete This Folder Or File!
+
+This folder is used to Temp store images being transfered to connected viewers through the middle man relay server!
