@@ -1,0 +1,30 @@
+India:8
+India:9
+India:10
+Fiji:1
+Fiji:2
+Hawaii:1
+Hawaii:2
+Samoa:1
+Samoa:2
+Singapore:1
+Singapore:2
+Tonga:1
+Tonga:2
+Japan:1
+Japan:2
+Tokyo:1
+Tokyo:2
+Mexico:1
+Mexico:2
+Auckland:1
+Auckland:2
+New Zealand:1
+New Zealand:2
+OFW Zone:1
+OFW Zone:2
+OFW Zone:3
+OFW Zone:4
+OFW Zone:5
+OFW Zone:6
+OFW Zone:7

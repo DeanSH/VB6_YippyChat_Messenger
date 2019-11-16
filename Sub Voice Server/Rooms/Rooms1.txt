@@ -1,0 +1,30 @@
+Asian Chat:1
+Asian Chat:2
+Black Chat:1
+Black Chat:2
+Religional Chat:1
+Religional Chat:2
+Yippy Chat:1
+Yippy Chat:2
+Apple:1
+Apple:2
+Cracker's Lounge:1
+Cracker's Lounge:2
+Hacker's Lounge:1
+Hacker's Lounge:2
+Programming:1
+Programming:2
+Windows:1
+Windows:2
+Gaming:1
+Gaming:2
+Movies:1
+Movies:2
+Television:1
+Television:2
+Country:1
+Country:2
+Karaoke:1
+Karaoke:2
+Metal:1
+Metal:2
